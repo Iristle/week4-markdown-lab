@@ -21,3 +21,6 @@
 2. Second step
 
 [Visit GitHub](https://github.com)
+## chinonso Contribution
+
+- Added my name and a new bullet point
